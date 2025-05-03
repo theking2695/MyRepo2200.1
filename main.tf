@@ -4,8 +4,8 @@ provider "aws" {
 }
 
 locals {
-  account_id             = "067856596210" # Update if needed
-  repo_name              = "MyRepo"       #Located in GitHub and on this local machine
+  account_id             = "123725129624" # Update if needed
+  repo_name              = "MyRepo2200.1"       #Located in GitHub and on this local machine
   github_owner           = "theking2695"
   branch                 = "main"
   ecr_image_tag          = "latest"
